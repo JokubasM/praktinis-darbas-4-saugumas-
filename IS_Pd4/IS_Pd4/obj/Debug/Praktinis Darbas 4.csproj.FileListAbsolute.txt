@@ -1,0 +1,48 @@
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe.config
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.pdb
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csprojAssemblyReference.cache
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.EditDataEntry.resources
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.MainWindow.resources
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.LoggedIn.resources
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.Properties.Resources.resources
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.GenerateResource.cache
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.exe
+C:\Users\Laurynas\Downloads\IS_Pd4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.pdb
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe.config
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.pdb
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.EditDataEntry.resources
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.MainWindow.resources
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.LoggedIn.resources
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.exe
+C:\Users\Laurynas\Desktop\Praktinis Darbas 4\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.pdb
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe.config
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.pdb
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.EditDataEntry.resources
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.MainWindow.resources
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.LoggedIn.resources
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.Properties.Resources.resources
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.GenerateResource.cache
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.exe
+C:\Users\Jacob\Desktop\Informacijos-saugumas-4-master\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.pdb
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.EditDataEntry.resources
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.MainWindow.resources
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.LoggedIn.resources
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.Properties.Resources.resources
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.GenerateResource.cache
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\Praktinis Darbas 4.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.exe
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\obj\Debug\IS_Pd4.pdb
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe.config
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.exe
+C:\Users\Jacob\Desktop\IS_Pd4\IS_Pd4\bin\Debug\IS_Pd4.pdb
